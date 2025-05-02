@@ -1,6 +1,6 @@
 # ⏱️ No 𝕏 Payouts Since
 
-This is a fun, minimalist website that displays a live countdown of how many days, hours, minutes, and seconds have passed since the **last 𝕏 (Twitter) creator payout** — starting from **April 11, 2025, at 8PM EST**.
+This is a fun, minimalist website that displays a live countdown of how many days, hours, minutes, and seconds have passed since the **last 𝕏 (Twitter) creator payout** — starting from **March 28, 2025, at 8PM EST**.
 
 It’s styled like an 𝕏 post & features a light/dark mode toggle (☀️ / 🌙).
 
@@ -18,7 +18,7 @@ It’s styled like an 𝕏 post & features a light/dark mode toggle (☀️ / �
 
 ## 🌐 Demo
 
-[Live Demo on Vercel](https://x-payout-timer.vercel.app/)]
+[Live Demo on Vercel](https://x-payout-timer.vercel.app/)
 
 ---
 
@@ -33,10 +33,4 @@ It’s styled like an 𝕏 post & features a light/dark mode toggle (☀️ / �
 
 ## ✍️ Creator
 
-Built by [@creecoder](https://x.com/creecoder) — follow for more projects & chaos 🤝
-
----
-
-## 🧠 License
-
-MIT — use it, fork it, meme it. Just don’t sue me if your payout is still missing 💀
+Built by [@creecoder](https://x.com/creecoder) — follow for more projects & chaos
